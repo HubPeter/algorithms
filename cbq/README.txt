@@ -8,3 +8,7 @@ kill by
 start by
 	
 	python cbq.py
+
+check algorithm
+
+	app's running time is proprotional its priority.
